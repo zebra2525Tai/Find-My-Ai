@@ -1,1 +1,5 @@
-# Find-My-Ai
+# コミット確認
+harumu
+inoue
+kuwa
+yoshioka
